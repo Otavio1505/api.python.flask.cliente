@@ -1,4 +1,4 @@
-# api.python.flask.cliente
+# Api utilizando Python-cliente
 Aplicação web em python, lado cliente.
 
 # Sobre o projeto
